@@ -1,0 +1,22 @@
+body {
+	background-image: url(../images/harryp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding:0;
+}
+
+nav {
+	background-color: #232323;
+	color: white;
+	margin-left: 50px;
+	width: 360px;
+}
+
+article {
+	position: absolute;
+	top: 100px;
+	width: 45%;
+	background-color: white;
+	left: 50px;
+}
